@@ -272,10 +272,13 @@
 
     document.addEventListener('DOMContentLoaded', function() {
       const services = {
-        'web-design': {
+        'housekeeping': {
           image: 'assets/img/housekeeping.jpg',
-          title: 'Web Design Portfolio Details',
-          content: 'Content for Web Design service. This can include detailed descriptions, examples, and client testimonials.'
+          title: 'This is an example of portfolio details',
+          content: `Do you dream of a clean home but lack the time or energy to make it happen? Let Sparkle & Shine Cleaning Service take
+                the burden off your shoulders. We offer a variety of cleaning services to suit your needs and budget, allowing you to
+                relax and enjoy the things that matter most. Our experienced and insured cleaners are dedicated to providing exceptional
+                service and leaving your home sparkling clean.`
         },
         'software-development': {
           image: 'assets/img/security.jpg',
